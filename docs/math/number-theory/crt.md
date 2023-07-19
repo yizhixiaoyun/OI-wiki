@@ -121,7 +121,7 @@ $$
 
 **Garner 算法** 将用来计算系数 $x_1, \ldots, x_k$。
 
-令 $r_{ij}$ 为 $p_i$ 在模 $p_j$ 意义下的 [逆](./inverse.md)：
+令 $r_{ij}$ 为 $p_i$ 在模 $p_j$ 意义下的 [逆元](./inverse.md)：
 
 $$
 p_i \cdot r_{i,j} \equiv 1 \pmod{p_j}
